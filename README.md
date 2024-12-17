@@ -1,4 +1,5 @@
 ---------- Whitepaper (English) ----------
+
 Meowdotexe (MEOW) represents a bold exploration into the harmony between blockchain technology and AI-driven sentiment analysis. At the core of this project lies a pioneering concept: a robot cat capable of interpreting market trends, community sentiment, and behavioral analytics, presented in a dynamic, evolving visual form. Meowdotexe offers an innovative experience, connecting token holders to artificial intelligence, decentralized infrastructure, and an evolving digital ecosystem.
 
 Ticker: MEOW
@@ -30,6 +31,7 @@ Meowdotexe is not static. It evolves. The next phase is already in motion as soo
 Meowdotexe hopes to realize a devs passion for AI, blockchain, cats and pixel art into a dynamic, sentiment-driven experience. The next phase awaits.
 
 ---------- Whitepaper (Japanese) ----------
+
 Meowdotexe (MEOW) は、ブロックチェーン技術とAI主導のセンチメント分析の調和を大胆に探求するプロジェクトです。本プロジェクトの中心には、マーケットトレンド、コミュニティセンチメント、行動分析を解釈し、動的で進化し続けるビジュアル形式で表現するロボットキャットという先駆的なコンセプトがあります。Meowdotexeは、トークンホルダーに人工知能、分散型インフラストラクチャ、進化し続けるデジタルエコシステムを結びつける革新的な体験を提供します。
 
 ティッカー: MEOW
