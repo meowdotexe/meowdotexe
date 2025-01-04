@@ -6,7 +6,7 @@ Ticker: MEOW
 
 Blockchain: Solana
 
-Meowdotexe is a passion project and experiment by Kayo based in Tokyo, Japan. Kayo is a graduate at Keio University's Department of Information and Computer Science, with 6 years of experience in software engineering and blockchain at . Meowdotexe attempts to redefine the evolution of how decentralized projects engage with their holders. Anchored in the limitless potential of blockchain and fueled by sentiment analytics, the AI-driven robot cat brings a new layer of interaction and emotional connectivity to token holders. The fusion of technology and sentiment paves the way for a "conscious" digital entity, one that responds dynamically to its community.
+Meowdotexe is a passion project and experiment by Kayo based in Tokyo, Japan. Kayo is a graduate at Keio University's Department of Information and Computer Science, with 6 years of experience in software engineering and blockchain. Meowdotexe attempts to redefine the evolution of how decentralized projects engage with their holders. Anchored in the limitless potential of blockchain and fueled by sentiment analytics, the AI-driven robot cat brings a new layer of interaction and emotional connectivity to token holders. The fusion of technology and sentiment paves the way for a "conscious" digital entity, one that responds dynamically to its community.
 
 The goal is simple: to create an interactive and immersive platform where technology, community, and innovation converge into something that evolves, reacts, and feels. Why a cat? Cats are cool!
 
